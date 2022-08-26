@@ -1,1 +1,1 @@
-# CodeCademy_DataScientist_MLSpecialist
+# CodeCademy_DataScientist_Analytics Specialist
